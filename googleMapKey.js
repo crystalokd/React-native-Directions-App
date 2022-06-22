@@ -1,0 +1,1 @@
+GOOGLE_MAP_KEY = 'AItfxss;oih;cosu;iiogciug'
